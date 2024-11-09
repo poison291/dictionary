@@ -1,0 +1,40 @@
+.search-box{
+    display: flex;
+    justify-content: center;
+}
+.search-box input{
+    align-items: center;
+    border: 2px solid red;
+    width: 250px;
+    height: 30px;
+}
+.live-text{
+    text-align: center;
+    color: rgb(224, 224, 84);
+    font-size: 26px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+
+cards-container h3 {
+    margin: 0;             
+    padding: 20px;            
+    margin-top: 20px;
+}
+
+
+.cards-container {
+    display: flex;
+    justify-content: center;  
+    align-items: center;     
+}
+.child{
+    height: auto;
+    margin-bottom: 25px;
+    align-items: center;
+    background-color: rgb(29, 28, 28);
+    border: 2px solid rgb(6, 6, 6);
+    text-align: center;      
+    width: 500px;
+}
